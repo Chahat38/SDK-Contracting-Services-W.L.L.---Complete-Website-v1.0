@@ -1,0 +1,24 @@
+# ── Database credentials (NEVER push to GitHub) ──
+includes/db.php
+
+# ── Uploaded user files ──
+uploads/
+
+# ── Temp / dev files ──
+hash.php
+*.log
+*.tmp
+.env
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE files ──
+.vscode/
+.idea/
+*.sublime-project
+
+# ── Google verification (optional, remove if needed) ──
+# google*.html
